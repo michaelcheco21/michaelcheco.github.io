@@ -35,8 +35,8 @@ p{
 }
 
 #shark {
-    width:180px;
-    height:130px;
+    width:200px;
+    height:150px;
 
 }
 
@@ -52,7 +52,7 @@ p{
 
 }
 
-.a{
+.button{
     color:red;
     background-color:black;
     border-color:black;
@@ -61,6 +61,16 @@ p{
     font-weight: bold;
 }
 
+.row aboutme{
+    
+    color:red;
+}
 
+li {
+    
+    color:red;
+}
 
-
+h1 {
+    color:red;
+}
